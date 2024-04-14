@@ -1,0 +1,19 @@
+.home{
+    width: 100%;
+    min-height: 135vh;
+    background-image: url('../../Assets/home-banner-background.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 530px;
+    align-items: center;
+    padding: 40px 3% 0 10%;
+}
+.image{
+    width: 580px;
+}
+.image img{
+    width: 100%;
+}
+.content{
+    width: 480px;
+}
